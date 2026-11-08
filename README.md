@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-bluevoolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-API-Schema-Importer-Converter/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-API-Schema-Importer-Converter?style=flat-square&logo=github" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-API-Schema-Importer-Converter/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-API-Schema-Importer-Converter?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-API-Schema-Importer-Converter/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-API-Schema-Importer-Converter?style=flat-square&logo=github" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-API-Schema-Importer-Converter/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-API-Schema-Importer-Converter?style=flat-square&logo=github" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-API-Schema-Importer-Converter/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat-square" alt="License" /></a>
@@ -62,7 +62,7 @@ The sector exhibits a **moderately fragmented** structure overall:
 
 Sorted in descending order by GitHub stargazers. Each badge links directly to the repository's stargazers page.
 
-| Project & Repo | Stars | Primary Language | License | Key Features & Conversion Capabilities |
+| Project & Repo | GitHub_Stars | Primary Language | License | Key Features & Conversion Capabilities |
 | :--- | :--- | :--- | :--- | :--- |
 | **[OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)** | [![Stars](https://img.shields.io/github/stars/OpenAPITools/openapi-generator?style=social&color=white)](https://github.com/OpenAPITools/openapi-generator/stargazers) | Java | Apache 2.0 | Complete code generator transforming OpenAPI (v2.0, v3.0, v3.1) into SDK clients, server stubs, configurations, and documentation across 50+ languages. |
 | **[Redocly/redoc](https://github.com/Redocly/redoc)** | [![Stars](https://img.shields.io/github/stars/Redocly/redoc?style=social&color=white)](https://github.com/Redocly/redoc/stargazers) | TypeScript | MIT | OpenAPI/Swagger spec viewer, parser, and responsive documentation generator with zero configuration and deep nested schema resolution. |
@@ -112,3 +112,12 @@ If you found this repository helpful, please consider showing your support:
 - ☕ **Buy me a coffee**: Support ongoing maintenance on the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
 
 Thank you for being part of the open-source community! 💙
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-API-Schema-Importer-Converter&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-API-Schema-Importer-Converter_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-API-Schema-Importer-Converter_growth.svg">
+  </picture>
+</a>
